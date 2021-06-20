@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" exclude=".svn;.cvs;.idea;.DS_Store;.git;.gitignore;.hg;typo3_src*;typo3temp;uploads;*_backup;*_bak;*_orig;*.zip;*.gz;*t3d;_temp*;_migrated;_processed*;data*;user_upload;l10n;_notes;deprecation_*;*.log;*.pdf;*.tgz;*.jpg;*.png;temp_CACHED_*;*_gfx;*.mp3;*.map" />
+</project>

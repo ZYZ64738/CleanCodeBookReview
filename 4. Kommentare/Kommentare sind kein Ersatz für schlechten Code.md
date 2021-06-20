@@ -1,0 +1,1 @@
+# Kommentare sind kein Ersatz für schlechten Code

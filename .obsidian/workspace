@@ -1,0 +1,116 @@
+{
+  "main": {
+    "id": "559ebb86efcf5230",
+    "type": "split",
+    "children": [
+      {
+        "id": "12f62caed1cedaf0",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4299c8ecc147978f",
+    "type": "split",
+    "children": [
+      {
+        "id": "34ae36bc9b9aba18",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "efb683be37608d93",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "bd2caee051fba306",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#links",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "375683f0706ed813",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 339
+  },
+  "right": {
+    "id": "2c804856adcd366a",
+    "type": "split",
+    "children": [
+      {
+        "id": "4f34bfa08e69f856",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "987546501faa26ec",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "4e43d35195cf12fe",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "12f62caed1cedaf0",
+  "lastOpenFiles": [
+    "4. Kommentare.md",
+    "4. Kommentare/Schlechte Kommentare.md",
+    "4. Kommentare/Gute Kommentare.md",
+    "Schlechte Kommentare.md",
+    "Gute Kommentare.md",
+    "Erklären Sie sich selbst in Code.md",
+    "4. Kommentare/Kommentare sind kein Ersatz für schlechten Code.md",
+    "3. Functions.md",
+    "Untitled.md",
+    "3. Functions/Small!.md"
+  ]
+}
